@@ -1,7 +1,7 @@
-﻿List<int> nums1 = new List<int> (){ 1, 2, 3, 0 ,0};
+﻿List<int> nums1 = new List<int> (){ 1, 2, 3, 0 ,0,0,0};
 int m = 3;
-List<int> nums2 = new List<int> (){ -4,2 };
-int n = 2;
+List<int> nums2 = new List<int> (){ -4,2,8,9};
+int n = 4;
 List<int> resultado = obtener_nueva_Lista(nums1, nums2,m,n);
 Console.WriteLine("Nueva Lista:");
 
@@ -18,7 +18,7 @@ static List<int> obtener_nueva_Lista(List<int>lista1, List<int>lista2, int m, in
 
     while (puntero_array2>=0) {
 
-        if (puntero_array1 >=0 && lista1[puntero_array1] >lista2[puntero_array2])
+        if (puntero_array1 >=0 && lista1[puntero_array1] > lista2[puntero_array2])
         {
 
 

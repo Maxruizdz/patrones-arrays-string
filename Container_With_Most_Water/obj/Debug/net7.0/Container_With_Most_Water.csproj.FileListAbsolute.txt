@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Container_With_Most_Water\bin\Debug\net7.0\Container_With_Most_Water.exe
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Container_With_Most_Water\bin\Debug\net7.0\Container_With_Most_Water.deps.json
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Container_With_Most_Water\bin\Debug\net7.0\Container_With_Most_Water.runtimeconfig.json
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Container_With_Most_Water\bin\Debug\net7.0\Container_With_Most_Water.dll
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Container_With_Most_Water\bin\Debug\net7.0\Container_With_Most_Water.pdb
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Container_With_Most_Water\obj\Debug\net7.0\Container_With_Most_Water.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Container_With_Most_Water\obj\Debug\net7.0\Container_With_Most_Water.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Container_With_Most_Water\obj\Debug\net7.0\Container_With_Most_Water.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Container_With_Most_Water\obj\Debug\net7.0\Container_With_Most_Water.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Container_With_Most_Water\obj\Debug\net7.0\Container_With_Most_Water.dll
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Container_With_Most_Water\obj\Debug\net7.0\refint\Container_With_Most_Water.dll
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Container_With_Most_Water\obj\Debug\net7.0\Container_With_Most_Water.pdb
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Container_With_Most_Water\obj\Debug\net7.0\Container_With_Most_Water.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Container_With_Most_Water\obj\Debug\net7.0\ref\Container_With_Most_Water.dll
