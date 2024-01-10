@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Merge Two Sorted List\bin\Debug\net7.0\Merge Two Sorted List.exe
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Merge Two Sorted List\bin\Debug\net7.0\Merge Two Sorted List.deps.json
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Merge Two Sorted List\bin\Debug\net7.0\Merge Two Sorted List.runtimeconfig.json
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Merge Two Sorted List\bin\Debug\net7.0\Merge Two Sorted List.dll
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Merge Two Sorted List\bin\Debug\net7.0\Merge Two Sorted List.pdb
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Merge Two Sorted List\obj\Debug\net7.0\Merge Two Sorted List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Merge Two Sorted List\obj\Debug\net7.0\Merge Two Sorted List.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Merge Two Sorted List\obj\Debug\net7.0\Merge Two Sorted List.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Merge Two Sorted List\obj\Debug\net7.0\Merge Two Sorted List.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Merge Two Sorted List\obj\Debug\net7.0\Merge Two Sorted List.dll
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Merge Two Sorted List\obj\Debug\net7.0\refint\Merge Two Sorted List.dll
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Merge Two Sorted List\obj\Debug\net7.0\Merge Two Sorted List.pdb
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Merge Two Sorted List\obj\Debug\net7.0\Merge Two Sorted List.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Merge Two Sorted List\obj\Debug\net7.0\ref\Merge Two Sorted List.dll
