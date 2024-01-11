@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Resolviendo_Problemas_con_Dos_Apuntadores/1.0.0": {
+        "runtime": {
+          "Resolviendo_Problemas_con_Dos_Apuntadores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Resolviendo_Problemas_con_Dos_Apuntadores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
