@@ -15,8 +15,9 @@ Ejemplo 2:
 	nums = [0]
 # Salida:
     [0]*/
-
+/*
 int[] nums = {0, 1, 0, 3, 12};
+
 
 Moviendo_los_Ceros_Al_final(nums);
 
@@ -55,6 +56,64 @@ static void Moviendo_los_Ceros_Al_final(int[] numeros) {
 
 }
 
+*/
+/*2.Invertir string
+Escribe una función que invierta una cadena. La cadena de entrada se da como un arreglo de caracteres.
+
+Reto: hacerlo modificando la lista de entrada con O(1) de memoria extra.
+
+Ejemplo 1:
+
+# Entrada:
+	s = ["h", "e", "l", "l", "o"]
+# Salida:
+    ["o", "l", "l", "e", "h"]
+Ejemplo 2:
+
+# Entrada:
+	s = ["H", "a", "n", "n", "a", "h"]
+# Salida=["h", "a", "n", "n", "a", "H"]*/
 
 
+string[] s = { "h", "e", "l", "l", "o" };
+
+
+inviertiendo_una_cadena(s);
+
+
+for (int i = 0; i < s.Length; i++) {
+
+    Console.WriteLine(s[i]);
+}
+
+static void inviertiendo_una_cadena(string[] cadena) {
+   int  puntero_derecho = cadena.Length - 1;
+    int puntero_izquierdo = 0;
+
+
+    while (puntero_izquierdo<puntero_derecho) {
+
+        string temp = cadena[puntero_izquierdo];
+        cadena[puntero_izquierdo]= cadena[puntero_derecho];
+        cadena[puntero_derecho]= temp;
+        puntero_izquierdo++;
+        puntero_derecho--;
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    }
+
+
+
+
+
+
+
+}
 
