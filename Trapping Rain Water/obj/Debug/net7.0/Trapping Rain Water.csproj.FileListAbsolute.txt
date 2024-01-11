@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Trapping Rain Water\bin\Debug\net7.0\Trapping Rain Water.exe
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Trapping Rain Water\bin\Debug\net7.0\Trapping Rain Water.deps.json
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Trapping Rain Water\bin\Debug\net7.0\Trapping Rain Water.runtimeconfig.json
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Trapping Rain Water\bin\Debug\net7.0\Trapping Rain Water.dll
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Trapping Rain Water\bin\Debug\net7.0\Trapping Rain Water.pdb
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Trapping Rain Water\obj\Debug\net7.0\Trapping Rain Water.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Trapping Rain Water\obj\Debug\net7.0\Trapping Rain Water.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Trapping Rain Water\obj\Debug\net7.0\Trapping Rain Water.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Trapping Rain Water\obj\Debug\net7.0\Trapping Rain Water.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Trapping Rain Water\obj\Debug\net7.0\Trapping Rain Water.dll
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Trapping Rain Water\obj\Debug\net7.0\refint\Trapping Rain Water.dll
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Trapping Rain Water\obj\Debug\net7.0\Trapping Rain Water.pdb
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Trapping Rain Water\obj\Debug\net7.0\Trapping Rain Water.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Trapping Rain Water\obj\Debug\net7.0\ref\Trapping Rain Water.dll
