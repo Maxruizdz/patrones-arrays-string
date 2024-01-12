@@ -75,6 +75,8 @@ Ejemplo 2:
 # Salida=["h", "a", "n", "n", "a", "H"]*/
 
 
+//resolucion
+/*
 string[] s = { "h", "e", "l", "l", "o" };
 
 
@@ -117,3 +119,93 @@ static void inviertiendo_una_cadena(string[] cadena) {
 
 }
 
+*/
+/*using System.Diagnostics;
+
+3.Reordenar colores
+Dado un arreglo nums con n objetos de color rojo, blanco o azul, ordénalos en su lugar para que los objetos del mismo color sean adyacentes, con los colores en el orden rojo, blanco y azul.
+
+Utilizaremos los enteros 0, 1 y 2 para representar el color rojo, blanco y azul, respectivamente.
+
+Reto 1: debes resolver este problema sin utilizar la función de ordenación de la biblioteca.
+
+Reto 2: ¿podrías idear un algoritmo de una sola pasada utilizando solo un espacio extra constante?
+
+Ejemplo 1:
+
+# Entrada:
+	nums = [2, 0, 2, 1, 1, 0]
+# Salida:
+     [0, 0, 1, 1, 2, 2]
+Ejemplo 2:
+
+# Entrada:
+	nums = [2, 0, 1]
+# Salida:
+    [0, 1, 2]*/
+
+
+
+using System.Globalization;
+using System.Net.NetworkInformation;
+
+int[] nums = { 2, 0, 2, 1, 1, 0 };
+
+Ordenar_Colores(nums);
+for (int i = 0; i < nums.Length; i++) {
+    Console.WriteLine(nums[i]);
+}
+
+
+static void Ordenar_Colores(int[] num) {
+
+    int puntero_izquierdo = 0;
+    int puntero_derecho = num.Length - 1;
+    int posicion_array = 0;
+
+    while (posicion_array<puntero_derecho) {
+
+
+        if (num[posicion_array] == 2)
+        {
+
+            int temp = num[posicion_array];
+            num[posicion_array] = num[puntero_derecho];
+            num[puntero_derecho] = temp;
+
+            puntero_derecho--;
+
+
+        }
+        else if (num[posicion_array] == 0)
+        {
+
+            int temp = num[posicion_array];
+            num[posicion_array] = num[puntero_izquierdo];
+            num[puntero_izquierdo] = temp;
+            puntero_izquierdo++;
+            posicion_array++;
+
+
+
+
+        }
+        else {
+            posicion_array++;
+        
+        
+        
+        }
+        
+        
+    
+    
+    
+    
+    
+    }
+
+
+
+
+}
