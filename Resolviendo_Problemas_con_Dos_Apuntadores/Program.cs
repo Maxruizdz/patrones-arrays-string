@@ -147,9 +147,9 @@ Ejemplo 2:
 
 
 using System.Globalization;
+using System.Linq;
 using System.Net.NetworkInformation;
-
-int[] nums = { 2, 0, 2, 1, 1, 0 };
+/*int[] nums = { 2, 0, 2, 1, 1, 0 };
 
 Ordenar_Colores(nums);
 for (int i = 0; i < nums.Length; i++) {
@@ -208,4 +208,103 @@ static void Ordenar_Colores(int[] num) {
 
 
 
+}*/
+/*.Invertir vocales
+Dada una cadena de caracteres, invierte solo todas las vocales de la cadena.
+Las vocales son ‘a’, ‘e’, ‘i’, ‘o’ y ‘u’, ‘A’, ‘E’, ‘I’, ‘O’, ‘U’.
+
+Ejemplo 1:
+
+# Entrada:
+	s = "hola"
+# Salida:
+	"halo"
+Ejemplo 2:
+
+# Entrada:
+	s = s = "leetcode"
+# Salida:
+	"leotcede"*/
+
+
+string s = "hola";
+List<string> vocales = new List<string>{ "a", "e", "i", "o", "u", "A", "E", "I", "O", "U" };
+
+string palabra = intercambiar_vocales(s,vocales);
+string modificacion ="";
+Console.WriteLine(palabra);
+static string intercambiar_vocales(string palabra, List<string>vocales) {
+    char[] caracteres_de_palabra= palabra.ToCharArray();
+
+    List<int> indices_vocales = encontrar_indices_vocales(caracteres_de_palabra, vocales);
+   
+
+    int indice_izquierda_vocal = 0;
+    int indice_derecha_vocal = indices_vocales.Count-1;
+
+    while (indice_izquierda_vocal<indice_derecha_vocal) {
+
+        char temp =caracteres_de_palabra[indices_vocales[indice_izquierda_vocal]];
+        caracteres_de_palabra[indices_vocales[indice_izquierda_vocal]] =caracteres_de_palabra[ indices_vocales[indice_derecha_vocal]];
+        caracteres_de_palabra[indices_vocales[indice_derecha_vocal]]=temp;
+        indice_derecha_vocal--;
+        indice_izquierda_vocal++;
+    
+    
+    
+    
+    }
+
+    string palabra_modificada = new string(caracteres_de_palabra);
+
+
+    return palabra_modificada;
+    
+
+    
+
 }
+
+
+
+static List<int> encontrar_indices_vocales(char[] caracteres_de_palabra, List<string>vocales) {
+    List < int> indices_vocales= new List<int>();
+
+    for (int i = 0; i < caracteres_de_palabra.Length; i++)
+    {
+        if (vocales.Contains(caracteres_de_palabra[i].ToString()))
+        {
+            indices_vocales.Add(i);
+
+        }
+
+
+    }
+
+
+    return indices_vocales;
+
+
+
+
+
+}
+/*
+static char verificar_vocales(int puntero_izquierda, int puntero_derecha, char[] caracteres,string[] vocales)
+{
+
+    if (vocales.Contains(caracteres[puntero_izquierda].ToString()) && vocales.Contains(caracteres[puntero_derecha].ToString())){
+        char temp = caracteres[puntero_izquierda];
+        caracteres[puntero_izquierda] = caracteres[puntero_derecha];
+        caracteres[puntero_derecha] = temp;
+        puntero_derecha--;
+        puntero_izquierda++;
+        string modified = new string(caracteres);
+
+    
+
+
+    }
+
+
+}*/
