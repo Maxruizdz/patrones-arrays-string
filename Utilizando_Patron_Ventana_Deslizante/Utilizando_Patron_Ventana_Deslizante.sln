@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilizando_Patron_Ventana_Deslizante", "Utilizando_Patron_Ventana_Deslizante.csproj", "{90B385D2-B017-463A-8593-6CE62C9F525E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90B385D2-B017-463A-8593-6CE62C9F525E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B385D2-B017-463A-8593-6CE62C9F525E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B385D2-B017-463A-8593-6CE62C9F525E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B385D2-B017-463A-8593-6CE62C9F525E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBC38E7B-87AC-480C-BA29-976A04D5863F}
+	EndGlobalSection
+EndGlobal
