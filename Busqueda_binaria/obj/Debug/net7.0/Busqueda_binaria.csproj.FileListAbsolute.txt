@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Busqueda_binaria\bin\Debug\net7.0\Busqueda_binaria.exe
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Busqueda_binaria\bin\Debug\net7.0\Busqueda_binaria.deps.json
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Busqueda_binaria\bin\Debug\net7.0\Busqueda_binaria.runtimeconfig.json
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Busqueda_binaria\bin\Debug\net7.0\Busqueda_binaria.dll
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Busqueda_binaria\bin\Debug\net7.0\Busqueda_binaria.pdb
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Busqueda_binaria\obj\Debug\net7.0\Busqueda_binaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Busqueda_binaria\obj\Debug\net7.0\Busqueda_binaria.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Busqueda_binaria\obj\Debug\net7.0\Busqueda_binaria.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Busqueda_binaria\obj\Debug\net7.0\Busqueda_binaria.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Busqueda_binaria\obj\Debug\net7.0\Busqueda_binaria.dll
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Busqueda_binaria\obj\Debug\net7.0\refint\Busqueda_binaria.dll
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Busqueda_binaria\obj\Debug\net7.0\Busqueda_binaria.pdb
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Busqueda_binaria\obj\Debug\net7.0\Busqueda_binaria.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Curso_Algoritmos_Arrays_\Busqueda_binaria\obj\Debug\net7.0\ref\Busqueda_binaria.dll
